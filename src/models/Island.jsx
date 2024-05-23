@@ -1,4 +1,4 @@
-import React, { useRef, userEffect } from 'react';
+import React, { useRef, useEffect } from 'react';
 import { useGLTF } from '@react-three/drei';
 import { useFrame, useThree } from '@react-three/fiber';
 import { a } from '@react-spring/three'
@@ -7,11 +7,11 @@ import islandScene from '../assets/3d/island.glb';
 const Island = ({isRotating, setIsRotating, ...props }) => {
     const islandRef = useRef();
 
-    const { gl, viewport } = userThree(); 
+    const { gl, viewport } = useThree(); 
     const { nodes, materials } = useGLTF(islandScene)
 
-    const lastX = useref(0);
-    const rotationSpeed = useref(0);
+    const lastX = useRef(0);
+    const rotationSpeed = useRef(0);
     const dampingFactor = 0.95; 
 
     const handlePointerDown = (e) => {
