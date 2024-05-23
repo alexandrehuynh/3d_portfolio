@@ -234,3 +234,5 @@ export function Island({
     </a.group>
   );
 }
+
+export default Island;

@@ -58,3 +58,5 @@ export function Fox({ currentAnimation, ...props }) {
 }
 
 useGLTF.preload(scene);
+
+export default Fox;
