@@ -3,11 +3,11 @@ import planeScene from '../assets/3d/plane.glb'
 import { useGLTF } from '@react-three/drei'
 
 
-const Plane = () => {
+const Plane = ({isRoting, ...props }) => {
     const { scene, animations } = useGLTF(planeScene)
 
     return (
-        <mesh>
+        <mesh {... props}>
             <primitive object={scene} />
         </mesh>
     )
