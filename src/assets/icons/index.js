@@ -18,10 +18,10 @@ import linkedin from './linkedin.svg'
 import twitter from './twitter.svg'
 import car from './car.svg'
 import estate from './estate.svg'
-import pricewise from './pricewise.svg'
+import bitebyte from './bitebyte.svg'
 import snapgram from './snapgram.svg'
 import summiz from './summiz.svg'
-import threads from './threads.svg'
+import charmander from './charmander.svg'
 import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
@@ -48,10 +48,10 @@ export {
     twitter,
     car,
     estate,
-    pricewise,
+    bitebyte,
     snapgram,
     summiz,
-    threads,
+    charmander,
     arrow,
     contact,
     soundon,
