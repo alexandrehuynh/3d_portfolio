@@ -1,15 +1,15 @@
 import hero from './hero.jpg'
-import meta from './meta.png'
-import shopify from './shopify.png'
-import starbucks from './starbucks.png'
-import tesla from './tesla.png'
+import bitebyte_logo from './bitebyte_logo.png'
+import kateeva from './kateeva.png'
+import offtheweights_logo from './offtheweights_logo.png'
+import coding_temple from './coding_temple.png'
 import logo from './logo.svg'
 
 export {
     hero,
-    meta,
-    shopify,
-    starbucks,
-    tesla,
+    bitebyte_logo,
+    kateeva,
+    offtheweights_logo,
+    coding_temple,
     logo
 }

@@ -16,10 +16,10 @@ import tailwindcss from './tailwindcss.svg'
 import typescript from './typescript.svg'
 import linkedin from './linkedin.svg'
 import twitter from './twitter.svg'
-import car from './car.svg'
+import offtheweights from './offtheweights.svg'
 import estate from './estate.svg'
 import bitebyte from './bitebyte.svg'
-import snapgram from './snapgram.svg'
+import avatar from './avatar.svg'
 import summiz from './summiz.svg'
 import charmander from './charmander.svg'
 import arrow from './arrow.svg'
@@ -46,10 +46,10 @@ export {
     typescript,
     linkedin,
     twitter,
-    car,
+    offtheweights,
     estate,
     bitebyte,
-    snapgram,
+    avatar,
     summiz,
     charmander,
     arrow,
