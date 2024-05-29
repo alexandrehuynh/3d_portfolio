@@ -169,7 +169,7 @@ export const socialLinks = [
     {
         name: 'Contact',
         iconUrl: contact,
-        link: 'https://alexhuynhportfolio.onrender.com/contact',
+        link: '/contact',
     },
     {
         name: 'GitHub',
