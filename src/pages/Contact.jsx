@@ -17,7 +17,7 @@ const Contact = () => {
     setForm({ ...form, [name]: value });
   };
 
-  const handleFocus = () => setCurrentAnimation("walk");
+  const handleFocus = () => setCurrentAnimation("walk.left");
   const handleBlur = () => setCurrentAnimation("idle");
 
   const handleSubmit = (e) => {
