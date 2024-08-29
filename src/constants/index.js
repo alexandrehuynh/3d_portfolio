@@ -112,10 +112,10 @@ export const skills = [
 export const experiences = [
     {
         title: "Software Developer",
-        company_name: "BiteByte",
+        company_name: "Co.Lab",
         icon: bitebyte_logo,
         iconBg: "#E6EFED",
-        date: "March 2024 - Present",
+        date: "March 2024 - June 2024",
         points: [
             "Developed and co-engineered a nutrition tracking app.",
             "Implemented AI-driven image recognition technology.",
@@ -139,10 +139,10 @@ export const experiences = [
     },
     {
         title: "Fitness Coach",
-        company_name: "Murray Athletic Development, Equinox, Luxfit, Skrap Pack, OFFTHEWEIGHTS",
+        company_name: "Murray Athletic Development, Equinox, Luxfit, Skrap Pack, OFFTHEWEIGHTS, Bay CLub",
         icon: offtheweights_logo,
         iconBg: "#002147",
-        date: "March 2020 - December 2023",
+        date: "March 2020 - Present",
         points: [
             "Trained professional athletes to secure contracts in the NBA, G-League, and overseas.",
             "Trained high-profile executives at high-end luxery gyms.",
