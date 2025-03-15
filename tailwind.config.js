@@ -16,6 +16,12 @@ export default {
         },
         blue: {
           500: "#2b77e7"
+        },
+        purple: {
+          500: "#8e2de2"
+        },
+        teal: {
+          500: "#00b4d8"
         }
       },
       fontFamily: {

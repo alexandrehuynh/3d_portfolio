@@ -22,6 +22,9 @@ import bitebyte from './bitebyte.svg'
 import avatar from './avatar.svg'
 import summiz from './summiz.svg'
 import charmander from './charmander.svg'
+import pokemon from './pokemon.svg'
+import trainer from './trainer.svg'
+import handstand from './handstand.svg'
 import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
@@ -55,5 +58,8 @@ export {
     arrow,
     contact,
     soundon,
-    soundoff
+    soundoff,
+    pokemon,
+    trainer,
+    handstand
 }
