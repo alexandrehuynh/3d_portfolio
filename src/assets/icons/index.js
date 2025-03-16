@@ -29,7 +29,7 @@ import arrow from './arrow.svg'
 import contact from './contact.svg'
 import soundon from './soundon.png'
 import soundoff from './soundoff.png'
-
+import trainersmemory from './trainersmemory.svg'
 export {
     css,
     express,
@@ -61,5 +61,6 @@ export {
     soundoff,
     pokemon,
     trainer,
-    handstand
+    handstand,
+    trainersmemory
 }

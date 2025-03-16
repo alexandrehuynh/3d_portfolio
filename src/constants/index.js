@@ -26,7 +26,8 @@ import {
     handstand,
     tailwindcss,
     charmander,
-    typescript
+    typescript,
+    trainersmemory
 } from "../assets/icons";
 
 export const skills = [
@@ -188,15 +189,15 @@ export const socialLinks = [
 
 export const projects = [
     {
-        iconUrl: trainer,
-        theme: 'btn-back-orange',
+        iconUrl: trainersmemory,
+        theme: 'btn-back-blue',
         name: 'Trainers Memory',
         description: 'An AI-powered fitness intelligence layer that gives any fitness platform the ability to understand, analyze, and derive insights from client workout data. Our API lets fitness companies add personalized AI coaching capabilities to their existing apps without the massive investment in AI infrastructure and expertise.',
         link: 'https://trainers-memory.vercel.app/',
     },
     {
         iconUrl: handstand,
-        theme: 'btn-back-blue',
+        theme: 'btn-back-orange',
         name: 'EyeSpy',
         description: 'Designed to process videos of human movement, extract pose landmarks using Mediapipe, and return detailed feedback and metrics. This API will allow fitness companies to integrate pose analysis into their applications by uploading videos or streaming live data, without requiring extensive backend expertise.',
         link: 'https://github.com/alexandrehuynh/eyespy_api/',
