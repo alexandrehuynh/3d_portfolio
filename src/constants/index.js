@@ -192,7 +192,7 @@ export const projects = [
         theme: 'btn-back-orange',
         name: 'Trainers Memory',
         description: 'An AI-powered fitness intelligence layer that gives any fitness platform the ability to understand, analyze, and derive insights from client workout data. Our API lets fitness companies add personalized AI coaching capabilities to their existing apps without the massive investment in AI infrastructure and expertise.',
-        link: 'https://github.com/alexandrehuynh/trainers-memory/',
+        link: 'https://trainers-memory.vercel.app/',
     },
     {
         iconUrl: handstand,
